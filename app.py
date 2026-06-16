@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("logo.jpg")
 # Tiêu đề ứng dụng
 st.title("💰 App tính tiền gửi tiết kiệm Việt Nam đề tài 1 Hà Minh Lộc")
 
